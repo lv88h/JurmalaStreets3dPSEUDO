@@ -5,6 +5,9 @@
 DEMO PAGE - http://jurmalastreets.bounceme.net/game.php
 
 LOGIN PAGE - http://jurmalastreets.bounceme.net/
+PSUUDO VERSION - http://jurmalastreets.bounceme.net/gamenew.php
+
+CODE - http://jurmalastreets.bounceme.net/code.txt
 
 PROJECT DOCUMENTATION - http://mytechservinginternetmeals.blogspot.com/2022/02/video-game-development-4.html
 
